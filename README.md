@@ -5,10 +5,10 @@ Turkey, located in the Alpine-Himalayan orogenic belt, is one of the most active
 
 # Project Goals
 
-● Understanding earthquakes and risks by analyzing historical seismic data.
-● To develop a reliable earthquake risk map for Türkiye.
-● To ensure that precautions are taken against possible earthquakes
-● Minimizing loss of life
+* Understanding earthquakes and risks by analyzing historical seismic data.
+* To develop a reliable earthquake risk map for Türkiye.
+* To ensure that precautions are taken against possible earthquakes
+* Minimizing loss of life
 
 # Sustainable Development Goals (SDG) Alignment
 
